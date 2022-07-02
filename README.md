@@ -1,2 +1,2 @@
 # dgraph-docker
-Docker compose with dgraph and ui ratel and tutorials
+Docker compose with dgraph, ui ratel and tutorials
